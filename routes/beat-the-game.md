@@ -1,11 +1,10 @@
 ---
-title: Any% 1 Player
+title: Beat the game
 author: AmenAnthem
 ---
 
 # General Notes
 - Best Character: Butch
-- Yellow enemies mostly have the keys
 - Spam start to end review screens and skip cut scenes afterwards
 
 # Route
